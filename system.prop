@@ -1,7 +1,0 @@
-#
-# system.prop for rider
-#
-service.adb.root=1
-persist.sys.usb.config=mass_storage,adb
-
-
